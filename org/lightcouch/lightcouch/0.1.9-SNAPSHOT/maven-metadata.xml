@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.lightcouch</groupId>
+  <artifactId>lightcouch</artifactId>
+  <version>0.1.9-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170319.154258</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170319154258</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.9-20170319.154258-1</value>
+        <updated>20170319154258</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.9-20170319.154258-1</value>
+        <updated>20170319154258</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

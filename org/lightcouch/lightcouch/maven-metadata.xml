@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.lightcouch</groupId>
+  <artifactId>lightcouch</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170319154258</lastUpdated>
+  </versioning>
+</metadata>
