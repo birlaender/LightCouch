@@ -138,6 +138,7 @@ public class CouchDbClient extends CouchDbClientBase implements Closeable {
 			PoolingHttpClientConnectionManager ccm = createConnectionManager(props, registry);
 			HttpClientBuilder clientBuilder = HttpClients.custom()
 					.setConnectionManager(ccm)
+					.setConnectionManagerShared(true)
 					.setDefaultConnectionConfig(ConnectionConfig.custom()
 							.setCharset(Consts.UTF_8).build())
 					.setDefaultRequestConfig(RequestConfig.custom()
